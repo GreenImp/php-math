@@ -1,0 +1,23 @@
+{
+    "name": "greenimp/php-math",
+    "description": "A basic set of math scripts that deal in strings to handle long floating point values.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Greenimp\\PhpMath\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lee Langley",
+            "email": "lee@greenimp.co.uk"
+        }
+    ],
+    "require": {
+        "php": "^8.0|8.1|8.2",
+        "moneyphp/money": "^v4.0.5"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
