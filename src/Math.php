@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpMath;
+namespace GreenImp\PhpMath;
 
 use Money\Calculator;
 use Money\Calculator\BcMathCalculator;
